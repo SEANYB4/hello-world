@@ -2,5 +2,3 @@
 Learning Git
 
 
-
-changes changes changes
